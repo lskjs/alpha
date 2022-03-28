@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 2.70.0 (2022-03-28)
+
+
+### Features
+
+* init lskjs/markdown ([80d1f75](https://github.com/lskjs/lskjs/commit/80d1f75d61e77049dceaea14bf37cc7201461046))
+
+
+
+
+
 ## [2.69.1](https://github.com/lskjs/lskjs/compare/v2.69.0...v2.69.1) (2022-02-20)
 
 

@@ -1,6 +1,6 @@
 {
   "name": "@lskjs/markdown",
-  "version": "2.69.1",
+  "version": "2.70.0",
   "description": "React component to render markdown",
   "license": "MIT",
   "keywords": [
@@ -128,7 +128,3 @@
     "xo": "^0.48.0"
   }
 }
-
-
-
-
