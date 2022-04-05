@@ -3,9 +3,9 @@
  * @typedef {import('micromark-util-types').Initializer} Initializer
  * @typedef {import('micromark-util-types').State} State
  */
-import {blankLine, content} from '../../micromark-core-commonmark'
-import {factorySpace} from '../../micromark-factory-space'
-import {markdownLineEnding} from '../../micromark-util-character'
+import {blankLine, content} from '../../../micromark-core-commonmark'
+import {factorySpace} from '../../../micromark-factory-space'
+import {markdownLineEnding} from '../../../micromark-util-character'
 
 /** @type {InitialConstruct} */
 export const flow = {

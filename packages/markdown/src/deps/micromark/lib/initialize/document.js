@@ -13,9 +13,9 @@
  * @typedef {Record<string, unknown>} StackState
  * @typedef {[Construct, StackState]} StackItem
  */
-import {factorySpace} from '../../micromark-factory-space'
-import {markdownLineEnding} from '../../micromark-util-character'
-import {splice} from '../../micromark-util-chunked'
+import {factorySpace} from '../../../micromark-factory-space'
+import {markdownLineEnding} from '../../../micromark-util-character'
+import {splice} from '../../../micromark-util-chunked'
 /** @type {InitialConstruct} */
 
 export const document = {
