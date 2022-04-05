@@ -100,10 +100,10 @@
 
 import React from 'react'
 import ReactIs from 'react-is'
-import {whitespace} from 'hast-util-whitespace'
-import {svg, find, hastToReact} from 'property-information'
-import {stringify as spaces} from 'space-separated-tokens'
-import {stringify as commas} from 'comma-separated-tokens'
+import {whitespace} from './deps/hast-util-whitespace'
+import {svg, find, hastToReact} from './deps/property-information'
+import {stringify as spaces} from './deps/space-separated-tokens'
+import {stringify as commas} from './deps/comma-separated-tokens'
 import style from 'style-to-object'
 
 const own = {}.hasOwnProperty

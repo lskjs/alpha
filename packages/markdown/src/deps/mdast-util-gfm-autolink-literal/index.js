@@ -9,7 +9,7 @@
  * @typedef {import('mdast-util-find-and-replace').PhrasingContent} PhrasingContent
  */
 
-import {ccount} from 'ccount'
+import {ccount} from '../ccount'
 import {findAndReplace} from '../mdast-util-find-and-replace'
 import {unicodePunctuation, unicodeWhitespace} from '../micromark-util-character'
 
