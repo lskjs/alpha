@@ -3,8 +3,8 @@
  * @typedef {import('../types.js').Context} Context
  */
 
-import {visit, EXIT} from 'unist-util-visit'
-import {toString} from 'mdast-util-to-string'
+import {visit, EXIT} from '../../../unist-util-visit'
+import {toString} from '../../../mdast-util-to-string'
 
 /**
  * @param {Heading} node

@@ -2,7 +2,7 @@
  * @typedef {import('mdast').Association} Association
  */
 
-import {decodeString} from 'micromark-util-decode-string'
+import {decodeString} from '../../../micromark-util-decode-string'
 
 /**
  * The `label` of an association is the string value: character escapes and

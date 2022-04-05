@@ -3,7 +3,7 @@
  * @typedef {import('../types.js').Context} Context
  */
 
-import {toString} from 'mdast-util-to-string'
+import {toString} from '../../../mdast-util-to-string'
 
 /**
  * @param {Link} node

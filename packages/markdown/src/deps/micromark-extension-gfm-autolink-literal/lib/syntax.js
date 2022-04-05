@@ -16,7 +16,7 @@ import {
   markdownLineEnding,
   unicodePunctuation,
   unicodeWhitespace
-} from 'micromark-util-character'
+} from '../../micromark-util-character'
 const www = {
   tokenize: tokenizeWww,
   partial: true

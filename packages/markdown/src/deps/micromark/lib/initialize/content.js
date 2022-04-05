@@ -4,8 +4,8 @@
  * @typedef {import('micromark-util-types').Token} Token
  * @typedef {import('micromark-util-types').State} State
  */
-import {factorySpace} from 'micromark-factory-space'
-import {markdownLineEnding} from 'micromark-util-character'
+import {factorySpace} from '../../micromark-factory-space'
+import {markdownLineEnding} from '../../micromark-util-character'
 
 /** @type {InitialConstruct} */
 export const content = {
