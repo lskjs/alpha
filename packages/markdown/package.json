@@ -102,17 +102,10 @@
     "@types/react": ">=16",
     "react": ">=16"
   },
-  "devDependencies2": {
+  "devDependencies": {
     "@types/react": "^17.0.0",
     "@types/react-dom": "^17.0.0",
     "@types/react-is": "^17.0.0",
-    "c8": "^7.0.0",
-    "esbuild": "^0.14.0",
-    "eslint-config-xo-react": "^0.26.0",
-    "eslint-plugin-es": "^4.0.0",
-    "eslint-plugin-react": "^7.0.0",
-    "eslint-plugin-react-hooks": "^4.0.0",
-    "eslint-plugin-security": "^1.0.0",
     "prettier": "^2.0.0",
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
