@@ -25,10 +25,10 @@
  */
 
 import React from 'react'
-import {VFile} from 'vfile'
-import {unified} from 'unified'
-import remarkParse from 'remark-parse'
-import remarkRehype from 'remark-rehype'
+import {VFile} from './deps/vfile'
+import {unified} from './deps/unified'
+import remarkParse from './deps/remark-parse'
+import remarkRehype from './deps/remark-rehype'
 import PropTypes from 'prop-types'
 import {html} from 'property-information'
 import rehypeFilter from './rehype-filter.js'

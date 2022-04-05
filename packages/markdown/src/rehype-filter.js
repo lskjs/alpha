@@ -1,4 +1,4 @@
-import {visit} from 'unist-util-visit'
+import {visit} from './deps/unist-util-visit'
 
 /**
  * @typedef {import('unist').Node} Node
