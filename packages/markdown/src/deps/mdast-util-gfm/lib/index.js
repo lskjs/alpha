@@ -17,7 +17,7 @@ import {
   gfmStrikethroughFromMarkdown,
   gfmStrikethroughToMarkdown
 } from '../../mdast-util-gfm-strikethrough'
-import {gfmTableFromMarkdown, gfmTableToMarkdown} from 'mdast-util-gfm-table'
+import {gfmTableFromMarkdown, gfmTableToMarkdown} from '../../mdast-util-gfm-table'
 import {
   gfmTaskListItemFromMarkdown,
   gfmTaskListItemToMarkdown
