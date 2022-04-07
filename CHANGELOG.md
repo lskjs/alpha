@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.74.0](https://github.com/lskjs/lskjs/compare/v2.73.0...v2.74.0) (2022-04-07)
+
+
+### Features
+
+* add rehype-raw ([68a5666](https://github.com/lskjs/lskjs/commit/68a5666ca94688a619d6a0c231eabef4d69a4657))
+
+
+
+
+
 # [2.73.0](https://github.com/lskjs/lskjs/compare/v2.72.1...v2.73.0) (2022-04-07)
 
 
