@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.72.0](https://github.com/lskjs/lskjs/compare/v2.71.3...v2.72.0) (2022-04-07)
+
+
+### Features
+
+* add remark-gfm remark-toc ([6960bd4](https://github.com/lskjs/lskjs/commit/6960bd45ec619fc8cc374446c4c5c349d5aa9ae7))
+
+
+
+
+
 ## [2.71.3](https://github.com/lskjs/lskjs/compare/v2.71.2...v2.71.3) (2022-04-05)
 
 
