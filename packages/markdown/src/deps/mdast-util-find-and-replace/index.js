@@ -33,9 +33,9 @@
  * @returns {Array.<PhrasingContent>|PhrasingContent|string|false|undefined|null}
  */
 
-import escape from '../../escape-string-regexp'
-import {visitParents} from '../../unist-util-visit-parents'
-import {convert} from '../../unist-util-is'
+import escape from '../escape-string-regexp'
+import {visitParents} from '../unist-util-visit-parents'
+import {convert} from '../unist-util-is'
 
 const own = {}.hasOwnProperty
 

@@ -7,11 +7,11 @@
  * @typedef {import('micromark-util-types').Event} Event
  * @typedef {import('micromark-util-types').Code} Code
  */
-import {factorySpace} from '../micromark-factory-space'
+import {factorySpace} from '../../micromark-factory-space'
 import {
   markdownLineEndingOrSpace,
   markdownLineEnding
-} from '../micromark-util-character'
+} from '../../micromark-util-character'
 const tasklistCheck = {
   tokenize: tokenizeTasklistCheck
 }
