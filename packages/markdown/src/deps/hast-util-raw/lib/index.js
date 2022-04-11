@@ -72,13 +72,13 @@
 
 // @ts-expect-error: untyped.
 import Parser from 'parse5/lib/parser/index.js'
-import {pointStart, pointEnd} from 'unist-util-position'
-import {visit} from 'unist-util-visit'
-import {fromParse5} from 'hast-util-from-parse5'
-import {toParse5} from 'hast-util-to-parse5'
-import {htmlVoidElements} from 'html-void-elements'
-import {webNamespaces} from 'web-namespaces'
-import {zwitch} from 'zwitch'
+import {pointStart, pointEnd} from '../../unist-util-position'
+import {visit} from '../../unist-util-visit'
+import {fromParse5} from '../../hast-util-from-parse5'
+import {toParse5} from '../../hast-util-to-parse5'
+import {htmlVoidElements} from '../../html-void-elements'
+import {webNamespaces} from '../../web-namespaces'
+import {zwitch} from '../../zwitch'
 
 const inTemplateMode = 'IN_TEMPLATE_MODE'
 const dataState = 'DATA_STATE'
