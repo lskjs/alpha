@@ -1,9 +1,6 @@
 import { toc as util } from '../mdast-util-toc';
 import util2 from '../mdast-util-toc';
 
-console.log({util})
-console.log({util2})
-
 function toc(options) {
   const settings = options || {};
 
